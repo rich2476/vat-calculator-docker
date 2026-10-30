@@ -1,0 +1,2 @@
+image: rich2476/vat:<+pipeline.sequenceId>
+replicas: 1
